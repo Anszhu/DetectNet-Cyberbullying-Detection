@@ -85,3 +85,7 @@ This repository is deployment-ready for Streamlit Community Cloud.
 3. Set the entrypoint file to `streamlit_app.py`.
 4. Choose Python `3.12` in Advanced settings.
 5. Deploy the app.
+
+
+
+STREAMLIT APP LINK -https://detectnet-cyberbullying-detectiongit-krbk2p4cfrrhsf6t8f4xay.streamlit.app/
